@@ -2,8 +2,8 @@
 
 JavaScript ve Sass kullanılarak oluşturulmuş basit bir todo list uygulaması.
 
-![Todo List Preview](https://i.hizliresim.com/nkvzvuy.png) 
-![Todo List Preview](https://i.hizliresim.com/smkt3f9.png)
+
+https://i.hizliresim.com/p2j2yzw.png
 
 ## Özellikler
 
